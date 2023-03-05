@@ -36,7 +36,9 @@
   </head>
   <body>
   <?php include("layouts/header.php") ?>
-
+  <h1 class="display-4">Teacher</h1>
+      <p class="lead d-none">Quickly build an effective pricing table for your potential customers with this Bootstrap example. It’s built with default Bootstrap components and utilities with little customization.</p>
+    </div>
     <div class="container">
       <div class="text-center">
         <table class="table table-striped">
