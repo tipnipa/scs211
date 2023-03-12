@@ -37,7 +37,7 @@ $data  = mysqli_fetch_all($result, MYSQLI_ASSOC);
                                 <th>title</th>
                                 <th>description</th>
                                 <th>price</th>
-                                
+                                <th>action</th>
                             </tr>
                         </thead>
                         <tbody>
